@@ -1,6 +1,6 @@
 # quiz_app
 
-A simple multi-page quiz app with a few questions and 4 options for each question and then shows the results page with the number of correctly answered questions along with the answer you chose and the supposedly correct answer.
+A simple multi-page quiz app created using dart and flutter which contains few questions and 4 options for each question for you to choose. Later, the app also shows a results page with the number of correctly answered questions along with the answer you chose and the supposedly correct answer.
 
 
 <img src="https://github.com/crystal-daniel/quiz-app/assets/133324551/dbefc01e-9e1b-4944-b7b7-c6aa7a8526f7" height="500">
